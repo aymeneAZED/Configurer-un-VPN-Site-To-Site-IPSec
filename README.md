@@ -1,8 +1,8 @@
 # Configurer-un-VPN-Site-To-Site-IPSec
-Configurer les routeurs
-Configurer les routes statiques
-Configurer VPN site to site
-Configurer ISAKMP Policy
-Creer accesslist
-create map crypto pour ipsec
-test & Verification (show crypto isakmp sa, show crypto isakmp policy, show crypto map, show crypto ip sec)
+1/Configurer les routeurs
+2/Configurer les routes statiques
+3/Configurer VPN site to site
+4/Configurer ISAKMP Policy
+5/Creer accesslist
+6/Creer map crypto pour ipsec
+7/Test & Verification (show crypto isakmp sa, show crypto isakmp policy, show crypto map, show crypto ip sec)
